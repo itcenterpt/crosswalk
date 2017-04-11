@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'jlourenco:crosswalk',
+  name: 'itcenterpt:crosswalk',
   version: '0.0.1',
   summary: 'Crosswalk 2.1.0',
-  git: 'https://github.com/jlourenco/crosswalk',
+  git: 'https://github.com/itcenterpt/crosswalk',
   documentation: 'README.md'
 });
 
